@@ -1,0 +1,10 @@
+body{
+  background-color: #111;
+}
+.app {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px;
+}
